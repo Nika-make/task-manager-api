@@ -30,7 +30,7 @@ Una API RESTful desarrollada con **FastAPI** para gestionar tareas, con autentic
 # Clonar el repositorio
 ```bash
 git clone https://github.com/Nika-make/backend-portfolio.git
-cd backend-portfolio/projects/task-manager-api
+cd task-manager-api
 
 ---
 
